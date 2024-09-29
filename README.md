@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pvasen
-- 👀 I’m interested in Cloud Security, Cyber Security and Strategic Cybersecurity Management.
-- 🌱 I’m currently learning different cloud security technologies in Microsoft Azure, Amazon Web Services (AWS) and Google Cloud Platform (GCP).
-- 💞️ I’m looking to collaborate on Cyber Security community tasks.
+- 👀 I’m interested in Cloud Security.
+- 🌱 I'm currently working in Microsoft Azure Security consulting.
+- 💞️ I’m looking to collaborate on Cyber Security community, research and development tasks.
 - 📫 Reach me at PM.
 
 <!---
