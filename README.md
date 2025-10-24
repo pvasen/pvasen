@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pvasen
-- 👀 I’m interested in Cloud Security.
-- 🌱 I'm currently working in Microsoft Azure Security consulting.
+- 👀 I’m interested in Cybersecurity, Security Operations, OSINT and Threat Intelligence.
+- 🌱 I'm currently working in Palo Alto Networks Unit 42.
 - 💞️ I’m looking to collaborate on Cyber Security community, research and development tasks.
 - 📫 Reach me at PM.
 
